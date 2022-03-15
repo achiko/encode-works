@@ -1,4 +1,4 @@
-# UUPS upgradable Proxy Pattern Hardhat project
+# Homework 10
 
 ### Install Dependencies
 
